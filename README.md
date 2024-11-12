@@ -24,18 +24,23 @@ has a value as your clue in the range [1, n], where n is the number of rooms.
 Output:
 Returns an integer representing the duplicate clue that traps you in the haunted loop.
 
+## How to Run code:
 
-## Sample 1:
+Run <code>python main.py</code> command 
+
+## Testing Program Input/Output:
+
+### Sample 1:
 <p>Input: rooms = [5,3,4,7,7]</p>
 <p>Output: 7</p>
 
 
-## Sample 2:
+### Sample 2:
 <p>Input: rooms = [8,1,8,4,6,5,2]</p>
 <p>Output: 8</p>
 
 
-## Sample 3:
+### Sample 3:
 <p>Input: rooms = [3,3,3,3,3]</p>
 <p>Output: 3</p>
 
